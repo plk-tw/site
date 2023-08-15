@@ -1,0 +1,12 @@
+{
+  "short_name": "PLK.tw",
+  "name": "Phû-lōng-kòng",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/",
+  "background_color": "cadetblue",
+  "theme_color": "cadetblue"
+}
